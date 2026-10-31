@@ -6,8 +6,6 @@ This folder contains PDF notes, learning materials, techniques, and practical re
 
 ## 📖 PDF Collection
 
-## 📖 PDF Collection
-
 ### 01. Prompt Engineering Fundamentals
 
 - **Level:** Beginner
@@ -42,9 +40,10 @@ This folder contains PDF notes, learning materials, techniques, and practical re
    - Organizing AI Instructions
    - Improving Response Quality
 
----
 
 **📄 [Read Prompt Engineering Fundamentals](https://github.com/SUMANTHREDDY-P/prompt-engineering/blob/main/PDFs/01-Prompt-Engineering-Fundamentals.pdf)**
+
+
 
 ---
 ## 🚀 Future Documents
